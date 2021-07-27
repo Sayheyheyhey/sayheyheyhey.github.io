@@ -4,6 +4,50 @@
   
   
   <entry>
+    <title>todolist</title>
+    <link href="/2021/07/27/todolist/"/>
+    <url>/2021/07/27/todolist/</url>
+    
+    <content type="html"><![CDATA[<ol><li><p>如何设计一个innoDB</p></li><li><p>网关</p></li><li><p>两地三中心</p></li><li><p>nginx源码</p></li><li><p>golang工程师实战营</p></li><li><p>用例驱动设计 风险驱动设计</p></li><li><p>wallheaven</p></li><li><p>大型网站web架构设计</p></li><li><p>如何做泳道隔离</p></li><li><p>redis持久化 http协议</p></li><li><p>支持元素删除的布隆过滤器</p></li><li><p>亿级网站的架构核心技术</p></li><li><p>kafka<br>kafka client是不是并发安全的 怎么做到的并发安全 只起一个机器的话有什么优点</p></li><li><p>go-zero</p></li><li><p>分布式事务数据一致性</p></li><li><p>绘图软件：<a href="https://draveness.me/sketch-and-sketch/">https://draveness.me/sketch-and-sketch/</a></p></li><li><p>unlink操作的过程</p></li><li><p>多进程copy on write</p></li><li><p>hibernate bug fix</p></li><li><p>python绝技</p></li><li><p>CTF</p></li><li><p>各公司登陆校验，如何做密码破解，社会工程学</p></li><li><p>意向锁，schema的原理</p></li><li><p>垃圾回收的算法与实现</p></li><li><p>Redis hyperloglog 和 cell原理</p></li><li><p>http1.0和2.0的区别，数据帧，头表，双线连接</p></li></ol>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>grpc</title>
+    <link href="/2021/07/27/grpc/"/>
+    <url>/2021/07/27/grpc/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>rpc</category>
+      
+      <category>source code</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>rpc</tag>
+      
+      <tag>grpc</tag>
+      
+      <tag>protobuf</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>你笑起来真好看</title>
     <link href="/2021/07/27/test/"/>
     <url>/2021/07/27/test/</url>
